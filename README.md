@@ -1,1 +1,1 @@
-# AI-Interviewer-Mocker
+# AI-Interview-Mocker
